@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">JogosApp</string>
+    <string name="title_login"> SIGN IN</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="txt_cadastrar">Não possui uma conta ainda? Cadastre-se agora.</string>
+    <string name="btn_login">Login</string>
+    <string name="status">Status</string>
+    <string name="tipo">Tipo</string>
+    <string name="title_cadastro">Cadastro Usuário</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="title_activity_cadastro_jogo">CadastroJogo</string>
+    <string name="title_activity_teste">teste</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_meus_jogos">MeusJogos</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+    <string name="alterar_usuario">Alterar Usuário</string>
+</resources>
